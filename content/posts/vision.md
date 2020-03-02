@@ -1,7 +1,7 @@
 ---
 title: "Vision"
 date: 2020-03-01T01:54:40-08:00
-draft: true
+draft: false
 aliases: [/vision]
 ---
 
@@ -57,9 +57,6 @@ Don't do less with less, _definitely_ don't do more with more;
 instead, _do more with less_.
 
 ---
-
-We can achieve all of this and more by following
-[our guiding principles](/principles).
 
 (Performance and useful features are important, but there are market
 forces ensuring that these continue to be valued; that which is
