@@ -2,3 +2,9 @@ baseURL = "https://revolutionize.dev/"
 languageCode = "en-us"
 title = "Revolutionize.dev"
 theme = "massively"
+[markup]
+  defaultMarkdownHandler = "blackFriday"
+  [markup.blackFriday]
+    nofollowLinks = true
+    noreferrerLinks = true
+    smartypants = false
