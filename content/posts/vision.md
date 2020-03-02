@@ -7,7 +7,7 @@ aliases: [/vision]
 
 ## Software is broken.
 
-### Revolutionize.dev exists to try to fix it.
+### Revolutionize.dev exists to fix it.
 
 We are a distributed R&D lab with many ideas for how to improve "best
 practices" -- the broken status quo of the software world.
