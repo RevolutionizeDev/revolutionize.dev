@@ -1,0 +1,4 @@
+baseURL = "https://revolutionize.dev/"
+languageCode = "en-us"
+title = "Revolutionize.dev"
+theme = "massively"
