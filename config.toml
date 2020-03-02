@@ -8,3 +8,6 @@ theme = "massively"
     nofollowLinks = true
     noreferrerLinks = true
     smartypants = false
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      typographer = false
